@@ -1,20 +1,3 @@
-﻿/****************************************************************************************
-**
-**
-**                       SAKARYA ÜNİVERSİTESİ                                 
-**              BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ                    
-**                   BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ                          
-**                      PROGRAMLAMAYA GİRİŞ DERSİ                             
-**                                                                       
-**           ÖDEV NUMARASI    : 2                                    
-**           ÖĞRENCİ ADI      : Özgür Demir                         
-**           ÖĞRENCİ NUMARASI : B221210017                       
-**           DERS GRUBU       : C                                     
-**
-**                                                                      
-*****************************************************************************************/
-
-
 #define _CRT_SECURE_NO_WARNINGS  // Güncel tarihi alırken sistem güvenlik uyarısı verdiği için bu çözüme başvurdum.
 #include <iostream>
 #include <stdio.h>
